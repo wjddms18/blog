@@ -3,7 +3,7 @@ module.exports = {
     title: `wjddms's Blog`,
     author: {
       name: `정은`,
-      summary: `제가 좋아하는 것들을 올리는 블로그입니다. 보기 싫으면 나가세요`,
+      summary: `제가 좋아하는 것들을 올리는 블로그입니다. 보기 싫으면`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
