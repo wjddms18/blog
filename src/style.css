@@ -54,8 +54,8 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: hotpink;
-  --color-text: yellow;               /*글자색 변경*/
+  --color-primary: blue;        /*블로그 제목 글자색 변경*/
+  --color-text: black;               /*글자색 변경*/
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
   --color-heading-black: black;
@@ -75,7 +75,7 @@ html {
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:blueviolet;        /*배경색 변경*/
+  background-color:orange;        /*배경색 변경*/
 }
 
 body {
