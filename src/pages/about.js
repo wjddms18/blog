@@ -22,7 +22,7 @@ const AboutPage = ({ location, data }) => (
       <p><img src={imgA} alt="iPhone_11" /></p>
       <p>
           QR Code<br/>
-          <img src={imgC} alt="qr" />
+          <img src={imgC} alt="qr" width="150"/>
       </p>
       </div>
     </Layout>
