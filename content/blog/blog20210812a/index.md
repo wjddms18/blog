@@ -1,7 +1,7 @@
 ---
 title: ARIN
 date: "2021-08-12T10:59:13.000Z"
-description: "안녕하세요. 아이돌 그룹 오마이걸의 아린을 소개합니다."
+description: "오마이걸의 아린을 소개합니다."
 ---
 
 # Arin

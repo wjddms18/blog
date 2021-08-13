@@ -126,5 +126,14 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    
+{
+  resolve: `gatsby-plugin-gtag`,
+  options: {
+    trackingId: `G-NBWRQ5JLSQ`, // 측정 ID
+    head: false, // head에 tracking script를 넣고 싶다면 true로 변경 
+    anonymize: true,
+      },
+    },
   ],
 }
